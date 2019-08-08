@@ -3,4 +3,4 @@ Intending to manifest my dreams
 
 Hi world,
 
-I intend to master programming.
+I intend to master programming. 
